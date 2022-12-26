@@ -1,0 +1,22 @@
+<xml>
+	<name>Расписание группы P3133</name>
+	<timetable>
+		<date>06.12</date>
+		<day>Вторник</day>
+		<subject1>
+			<subject_name>Информатика(Лек)</subject_name>
+			<time>10:00 - 11:30</time>
+			<auditorium>Актовый зал</auditorium>
+		</subject1>
+		<subject2>
+			<subject_name>Основы профессиональной деятельности(Лек)</subject_name>
+			<time>10:00 - 11:30</time>
+			<auditorium>Актовый зал''''</auditorium>
+		</subject2>
+		<subject3>
+			<subject_name>Программирование(Лек)</subject_name>
+			<time>11:40 - 13:10</time>
+			<auditorium>Актовый зал</auditorium>
+		</subject3>
+	</timetable>
+</xml>
